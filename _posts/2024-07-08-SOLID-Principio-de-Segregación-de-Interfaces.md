@@ -18,7 +18,7 @@ La abstracción oculta la implementación en el diseño orientado a objetos. Se 
 
 Una Interfaz es un conjunto de abstracciones que una clase implementadora debe seguir. Definimos el comportamiento pero no lo implementamos:
 
-```java
+```
 interface Dog {
   void bark();
 }
